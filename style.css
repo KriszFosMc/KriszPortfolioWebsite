@@ -28,7 +28,7 @@ header {
 }
 
 header.sticky {
-  background-color: #3a6cf4;
+  background: linear-gradient(to top, #000016, #000044, #00005f);
   padding: 10px 200px;
 }
 
@@ -228,7 +228,7 @@ section {
 .about .content .col-left .img-card {
   position: relative;
   width: 100%;
-  min-height: 450px;
+  min-height: 650px;
 }
 
 .about .content .col-left .img-card img {
@@ -254,7 +254,7 @@ section {
 /* Skills Section */
 
 .skills {
-  background-color: black;
+  background: linear-gradient(to right, #000016, #000044, #00005f);
 }
 
 .skills .content {
@@ -398,7 +398,7 @@ section {
 /* Work */
 
 .work {
-  background-color: #000016;
+  background: linear-gradient(to left, #000016, #000044, #00005f);
 }
 
 .work .content {
@@ -497,7 +497,7 @@ section {
 .contact-form {
   background: #fff;
   max-width: 600px;
-  margin-top: 50px;
+  margin: 50px auto 0 auto;
   padding: 50px;
   border-radius: 10px;
   box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
@@ -551,7 +551,7 @@ section {
 /* Footer */
 
 .footer {
-  background: #000016;
+  background: linear-gradient(to top, #000016, #000044, #00005f);
   color: #fff;
   text-align: center;
   padding: 2em;
